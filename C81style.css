@@ -1,0 +1,19 @@
+
+h1
+{
+	color: rgba(206, 255, 253, 0.911); 
+	font-size: 40px;
+}
+.body_background {
+	background-image: url("bg1.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+
+
+#myCanvas{
+ background-color: rgb(218, 255, 243);
+ border-width: 10px;
+ border-style: solid;
+}
